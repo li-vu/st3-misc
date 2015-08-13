@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "misc: latexindent file",
+    "command": "latex_indent"
+  },
+  {
+    "caption": "misc: latexindent selection",
+    "command": "latex_indent_selection"
+  }
+]
